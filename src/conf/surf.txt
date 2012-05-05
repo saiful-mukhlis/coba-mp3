@@ -1,0 +1,65 @@
+What is Surf Timer?
+
+How many times have you been on your PC, completely forgot time and that you 
+should be somewhere else OR doing something else?
+
+I nearly forgot I had something cooking on the stove once and nearly burnt the 
+house down. That is when I came up with the idea for Surf Timer. Surf Timer is 
+an alarm you can set to play an audio file or clip at a set time up to 55 
+minutes to remind you that you should be doing something else. I use it for a 
+variety of roles now and it fits the bill. 
+
+Okay, I got it. How do I configure it?
+
+From the file menu choose Open. Choose from your hard drive any .WAV audio file 
+you wish. WAV files are the current format currently supported by Surf Timer in 
+its default status for those unfamiliar with the JAVA language and the JVM. 
+
+Once you have selected the audio file/clip you wish Surf Timer to play when the 
+time is up, you might want to save the audio file so that it will be the default 
+audio clip when you launch at a later date. Choose Save from the File menu then 
+OK from the resulting dialog box.
+
+Let’s look at the Surf Timer Window.
+
+At the top you have the current time displayed. This should be the current time 
+for your locality.
+
+In the middle of the window we have a widget which allows you to either select 
+the number of minutes in 5 minute steps OR enter at the keyboard the number of 
+minutes. Next to it is the BUTTON to start the alarm. When the alarm starts the 
+BUTTON text changes to stop.
+
+On the bottom you a box which displays 00:00, this is where the time the alarm 
+will sound will be displayed when you hit the Start BUTTON. Above the alarm time 
+display is text to inform you that the alarm is either set or not set. Below is 
+the name of the audio file/clip which will play.
+
+Try it out.
+
+If you have not chosen an audio clip do so now. Make sure it is a .wav file clip. 
+Use the keyboard to enter 1 in the widget to set the number of minutes and then hit 
+the start button. Notice the time on the bottom has changed to one minute from when 
+you hit the start button. Also you now cannot enter the number of minutes when the 
+alarm has been set.
+You will notice that the background changes to yellow on the alarm time box at the 
+bottom. When the minute is up your audio clip should play through your speakers and 
+the alarm time box background changes to red.
+
+Okay, it plays, how then do I stop it playing.
+
+Hit the Stop BUTTON. Notice that when the stop button has been used, the alarm time 
+resets to 00:00 and you can now enter the number of minutes. You can use the stop 
+BUTTON at any time after the alarm has been set to cancel the alarm, even before it 
+has sounded.
+
+Can I change the audio clip after I set the default?
+
+YES. Choose Open from the File menu to change the audio clip. If you do change the 
+audio clip and don’t save it, you will be prompted on closing the window on whether 
+you want to save your new audio clip as the default.
+
+You can exit the application by choosing Exit from the file menu or by closing the 
+window as usual from the x in the top corner.
+
+Enjoy using Surf Timer.
